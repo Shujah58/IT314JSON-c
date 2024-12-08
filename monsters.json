@@ -14,7 +14,7 @@
             "Intelligence": 10,
             "Wisdom": 8,
             "Charisma": 8,
-            "Image": "GoblinImageUrl"
+            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Goblin.png?raw=true"
         },
         {
             "Name": "Orc",
@@ -30,7 +30,7 @@
             "Intelligence": 7,
             "Wisdom": 11,
             "Charisma": 10,
-            "Image": "OrcImageUrl"
+            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Orc.png?raw=true"
         },
         {
             "Name": "Kobold",
@@ -46,7 +46,7 @@
             "Intelligence": 8,
             "Wisdom": 7,
             "Charisma": 8,
-            "Image": "KoboldImageUrl"
+            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Kobold.png?raw=true"
         },
         {
             "Name": "Dragon",
@@ -62,7 +62,7 @@
             "Intelligence": 14,
             "Wisdom": 11,
             "Charisma": 19,
-            "Image": "DragonImageUrl"
+            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Dragon.png?raw=true"
         },
         {
             "Name": "Skeleton",
@@ -78,7 +78,7 @@
             "Intelligence": 6,
             "Wisdom": 8,
             "Charisma": 5,
-            "Image": "SkeletonImageUrl"
+            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Skeleton.png?raw=true"
         },
         {
             "Name": "Troll",
@@ -94,7 +94,7 @@
             "Intelligence": 7,
             "Wisdom": 9,
             "Charisma": 7,
-            "Image": "TrollImageUrl"
+            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Troll.png?raw=true"
         },
         {
             "Name": "Zombie",
@@ -110,7 +110,7 @@
             "Intelligence": 3,
             "Wisdom": 6,
             "Charisma": 5,
-            "Image": "ZombieImageUrl"
+            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Zombie.png?raw=true"
         },
         {
             "Name": "Gnoll",
@@ -126,7 +126,7 @@
             "Intelligence": 6,
             "Wisdom": 10,
             "Charisma": 7,
-            "Image": "GnollImageUrl"
+            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Gnoll.png?raw=true"
         },
         {
             "Name": "Wyvern",
@@ -142,7 +142,7 @@
             "Intelligence": 5,
             "Wisdom": 12,
             "Charisma": 6,
-            "Image": "WyvernImageUrl"
+            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Wyvern.png?raw=true"
         },
         {
             "Name": "Mimic",
@@ -158,7 +158,7 @@
             "Intelligence": 5,
             "Wisdom": 13,
             "Charisma": 8,
-            "Image": "MimicImageUrl"
+            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Mimic.png?raw=true"
         }
     ],
     "Status": "OK"
