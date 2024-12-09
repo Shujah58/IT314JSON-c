@@ -14,7 +14,8 @@
             "Intelligence": 10,
             "Wisdom": 8,
             "Charisma": 8,
-            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Goblin.png?raw=true"
+            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Goblin.png?raw=true",
+            "URL": "https://forgottenrealms.fandom.com/wiki/Goblin"
         },
         {
             "Name": "Orc",
@@ -30,7 +31,8 @@
             "Intelligence": 7,
             "Wisdom": 11,
             "Charisma": 10,
-            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Orc.png?raw=true"
+            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Orc.png?raw=true",
+            "URL": "https://forgottenrealms.fandom.com/wiki/Orc"
         },
         {
             "Name": "Kobold",
@@ -46,7 +48,8 @@
             "Intelligence": 8,
             "Wisdom": 7,
             "Charisma": 8,
-            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Kobold.png?raw=true"
+            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Kobold.png?raw=true",
+            "URL": "https://forgottenrealms.fandom.com/wiki/Kobold"
         },
         {
             "Name": "Dragon",
@@ -62,7 +65,8 @@
             "Intelligence": 14,
             "Wisdom": 11,
             "Charisma": 19,
-            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Dragon.png?raw=true"
+            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Dragon.png?raw=true",
+            "URL": "https://forgottenrealms.fandom.com/wiki/Dragon"
         },
         {
             "Name": "Skeleton",
@@ -78,7 +82,8 @@
             "Intelligence": 6,
             "Wisdom": 8,
             "Charisma": 5,
-            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Skeleton.png?raw=true"
+            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Skeleton.png?raw=true",
+            "URL": "https://forgottenrealms.fandom.com/wiki/Skeleton"
         },
         {
             "Name": "Troll",
@@ -94,7 +99,8 @@
             "Intelligence": 7,
             "Wisdom": 9,
             "Charisma": 7,
-            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Troll.png?raw=true"
+            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Troll.png?raw=true",
+            "URL": "https://forgottenrealms.fandom.com/wiki/Troll"
         },
         {
             "Name": "Zombie",
@@ -110,7 +116,8 @@
             "Intelligence": 3,
             "Wisdom": 6,
             "Charisma": 5,
-            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Zombie.png?raw=true"
+            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Zombie.png?raw=true",
+            "URL": "https://forgottenrealms.fandom.com/wiki/Zombie"
         },
         {
             "Name": "Gnoll",
@@ -126,7 +133,8 @@
             "Intelligence": 6,
             "Wisdom": 10,
             "Charisma": 7,
-            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Gnoll.png?raw=true"
+            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Gnoll.png?raw=true",
+            "URL": "https://forgottenrealms.fandom.com/wiki/Gnoll"
         },
         {
             "Name": "Wyvern",
@@ -142,7 +150,8 @@
             "Intelligence": 5,
             "Wisdom": 12,
             "Charisma": 6,
-            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Wyvern.png?raw=true"
+            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Wyvern.png?raw=true",
+            "URL": "https://forgottenrealms.fandom.com/wiki/Wyvern"
         },
         {
             "Name": "Mimic",
@@ -158,7 +167,8 @@
             "Intelligence": 5,
             "Wisdom": 13,
             "Charisma": 8,
-            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Mimic.png?raw=true"
+            "Image": "https://github.com/Shujah58/IT314JSON-c/blob/main/Mimic.png?raw=true",
+            "URL": "https://forgottenrealms.fandom.com/wiki/Mimic"
         }
     ],
     "Status": "OK"
